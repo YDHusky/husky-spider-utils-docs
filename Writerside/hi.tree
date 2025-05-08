@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                  name="Husky Spider Utils"
+                  start-page="husky-spider-utils.md">
+
+    <toc-element topic="husky-spider-utils.md"/>
+    <toc-element toc-title="前置知识">
+        <toc-element topic="HTML.md"/>
+        <toc-element topic="RESTful-Api.md"/>
+    </toc-element>
+    <toc-element toc-title="进阶知识">
+        <toc-element topic="Parsel-Selector.md"/>
+    </toc-element>
+    <toc-element toc-title="Class">
+        <toc-element topic="SessionSelenium.md"/>
+        <toc-element topic="AISeleniumSession.md"/>
+    </toc-element>
+    <toc-element toc-title="常用方法">
+        <toc-element topic="RESTful.md"/>
+        <toc-element topic="Selenium.md"/>
+        <toc-element topic="OtherMethod.md"/>
+    </toc-element>
+    <toc-element topic="Dev.md"/>
+    <toc-element toc-title="实战">
+        <toc-element topic="ygsf.md"/>
+        <toc-element topic="SWUSTOA.md"/>
+        <toc-element topic="WOS论文爬取实现.md"/>
+        <toc-element topic="ITest.md"/>
+        <toc-element topic="SYiBanPost.md"/>
+    </toc-element>
+</instance-profile>

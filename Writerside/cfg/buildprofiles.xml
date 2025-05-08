@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE buildprofiles SYSTEM "https://resources.jetbrains.com/writerside/1.0/build-profiles.dtd">
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <variables>
+        <custom-favicons>
+            ./icon500x500.svg
+        </custom-favicons>
+        <showDownloadButton>true</showDownloadButton>
+        <download-page>https://github.com/YDHusky/husky-spider-utils</download-page>
+        <download-title>Get Husky Spider Utils</download-title>
+        <header-logo> ./icon500x500.svg</header-logo>
+        <product-web-url>https://github.com/YDHusky/husky-spider-utils</product-web-url>
+        <noindex-content>false</noindex-content>
+    </variables>
+    <footer>
+
+        <social type="github" href="https://github.com/YDHusky/husky-spider-utils">Husky Spider Utils</social>
+        <social type="blog" href="https://husky.yudream.online/">YDHuskyの小窝</social>
+        <copyright>2025 YDHusky</copyright>
+        <icp>
+            蜀ICP备2023023823-3号
+        </icp>
+    </footer>
+    <sitemap priority="0.35" change-frequency="monthly"/>
+</buildprofiles>
