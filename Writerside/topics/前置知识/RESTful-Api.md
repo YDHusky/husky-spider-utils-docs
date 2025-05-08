@@ -1,7 +1,3 @@
-
-
-
-          
 # RESTful API 与 JSON 指南
 
 ## 🌐 什么是 RESTful API？ {id="restful-api_1"}

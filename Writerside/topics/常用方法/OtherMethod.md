@@ -40,7 +40,7 @@ Parsel选择器对象，可以使用CSS或XPath进行进一步解析
 
 ## 🍪 Cookie管理
 
-### 保存Cookies
+### 保存Cookies {id="cookies_1"}
 
 ```python
 session.save_cookies("cookies.json")
@@ -54,7 +54,7 @@ session.save_cookies("cookies.json")
 |------|------|------|
 | save_path | str | 保存路径 |
 
-### 加载Cookies
+### 加载Cookies {id="cookies_2"}
 
 ```python
 session.load_cookies("cookies.json")
@@ -68,7 +68,7 @@ session.load_cookies("cookies.json")
 |------|------|------|
 | load_path | str | 加载路径 |
 
-## 🔗 URL操作
+## 🔗 URL操作 {id="url_1"}
 
 ### 获取当前URL
 

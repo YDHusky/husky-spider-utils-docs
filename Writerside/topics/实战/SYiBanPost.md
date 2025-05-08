@@ -3,7 +3,6 @@
 易班发帖工具，[点击跳转github源码](https://github.com/YDHusky/SYiBanPost)
 
 ## 核心封装部分
-
 ```python
 class SyiBan:
     base_url = "https://www.yiban.cn/login?go=https%3A%2F%2Fwww.yiban.cn%2F"
