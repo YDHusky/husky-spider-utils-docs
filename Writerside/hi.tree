@@ -7,6 +7,7 @@
                   start-page="husky-spider-utils.md">
 
     <toc-element topic="husky-spider-utils.md"/>
+    <toc-element topic="UpdateLog.md"/>
     <toc-element toc-title="前置知识">
         <toc-element topic="HTML.md"/>
         <toc-element topic="RESTful-Api.md"/>
@@ -16,7 +17,6 @@
     </toc-element>
     <toc-element toc-title="Class">
         <toc-element topic="SpiderWindows.md"/>
-        <toc-element topic="UpdateLog.md"/>
         <toc-element topic="SessionSelenium.md"/>
         <toc-element topic="SpiderConfig.md"/>
         <toc-element topic="SpiderTask.md"/>
