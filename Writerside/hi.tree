@@ -15,7 +15,12 @@
         <toc-element topic="Parsel-Selector.md"/>
     </toc-element>
     <toc-element toc-title="Class">
+        <toc-element topic="SpiderWindows.md"/>
+        <toc-element topic="UpdateLog.md"/>
         <toc-element topic="SessionSelenium.md"/>
+        <toc-element topic="SpiderConfig.md"/>
+        <toc-element topic="SpiderTask.md"/>
+        <toc-element topic="HuskySpider.md"/>
         <toc-element topic="AISeleniumSession.md"/>
     </toc-element>
     <toc-element toc-title="常用方法">
